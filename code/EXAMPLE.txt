@@ -1,0 +1,23 @@
+----------------------------------------
+|					|
+|	        SALLYS SHOP		|
+|					|
+-----------------------------------------
+| DATE 01/12/1990	  TIME 18:00:02	|
+| STAFF ID 565 LIAM BLACKBURN		|
+|					|
+| POS		ITEM TEXT	PRICE	|
+| 6524585654	CAN OF COKE	£0.89	|
+| 5642545565	LOTTO HOTPICKS	£1.00	|
+| 1025452892	DAILY STAR	£0.70	|
+| 3655896585	CHEESE ONION	£1.20	|
+|		------------------------|
+|		SUBTOTAL: 	£4.89	|
+|		DISCOUNT:	£1.00	|
+|		TOTAL DUE:	£3.89	|
+|					|
+|		TENDERED:	£5.00	|
+|		METHOD:		CASH	|
+|		CHANGE:		£1.11	|
+|					|
+-----------------------------------------
